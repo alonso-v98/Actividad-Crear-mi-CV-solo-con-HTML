@@ -31,7 +31,7 @@ Soy **Tecnólogo en Informática Biomédica** titulado de DUOC UC y actualmente 
 
 ## 📬 Contacto
 * **GitHub:** [alonso-v98](https://github.com/alonso-v98)
-* **LinkedIn:** (Puedes agregar tu link aquí)
+* **LinkedIn:** [Alonso Morales López](https://www.linkedin.com/in/alonso-morales-l%C3%B3pez-92895627b/)
 * **Email:** alonso.molo98@gmail.com
 
 ---
